@@ -1,6 +1,4 @@
-<h1 align="center">Olá, Eu sou o Bruno 👋</h1>
-<h3 align="center">Sou apaixonado por análise e visualização de dados 👨‍💻</h3>
-
+![header](https://user-images.githubusercontent.com/88558377/145865964-94184697-f8aa-41c7-baef-a9573c12d7e2.gif)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beyondtimex&label=Profile%20views&color=0e75b6&style=flat" alt="beyondtimex" /> </p>
 
 - 🌱 Atualmente estou aprendendo **Flask**
