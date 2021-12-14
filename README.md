@@ -1,6 +1,6 @@
 ![header](https://user-images.githubusercontent.com/88558377/145865964-94184697-f8aa-41c7-baef-a9573c12d7e2.gif)
 
-- 🌱 Atualmente estou aprendendo **Flask**
+
 - 💬 Pergunte-me sobre **Banco de dados**
 
 <h3 align="left">Linguagens e ferramentas:</h3>
@@ -11,7 +11,7 @@
    <a href="https://www.facebook.com/brunobeyondtime" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=beyondtimex&label=Profile%20views&color=0e75b6&style=flat" alt="beyondtimex" /> </p>
+
 
 
 
