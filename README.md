@@ -15,14 +15,17 @@
 * [Desenvolvendo um Port Scanner em Python](https://github.com/BeyondtimeX/Projeto-8)
 * [Implementando um sistema de gerenciamento de clientes com cadastro, listagem e exclusão](https://github.com/BeyondtimeX/Projeto-9)
 * [Refatorando uma API HTTP de forma segura desenvolvida em Python](https://github.com/BeyondtimeX/Projeto-10)
+  
 <div>
   
 *  ##### [Desafios em Python](https://https://github.com/BeyondtimeX/BeyondtimeX-Desafiosempython)
 
-  [![Linguagens principais](https://github-readme-stats.vercel.app/api/top-langs/?username=BeyondtimeX&langs_count=8&layout=compact)](https://https://github.com/BeyondtimeX/github-readme-stats)
-  
 </div>
- 
+  
+    
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=BeyondTimeX&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeyondTimeX&langs_count=8&layout=compact)](https://github.com/BeyondTimeX/github-readme-stats)
+    
+  
    <h5 align="left">Conexões:</h5>
 
   <a href="https://www.linkedin.com/in/brunodesouzaalmeida" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
