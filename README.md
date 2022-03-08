@@ -1,7 +1,5 @@
 ![header](https://user-images.githubusercontent.com/88558377/145865964-94184697-f8aa-41c7-baef-a9573c12d7e2.gif)
 
-<div> 
-
   #### Projetos:
   
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" width="110" height="30"/> 
@@ -16,13 +14,16 @@
 * [Implementando um sistema de gerenciamento de clientes com cadastro, listagem e exclusão](https://github.com/BeyondtimeX/Projeto-9)
 * [Refatorando uma API HTTP de forma segura desenvolvida em Python](https://github.com/BeyondtimeX/Projeto-10)
   
-<div>
-  
 *  ##### [Desafios em Python](https://https://github.com/BeyondtimeX/BeyondtimeX-Desafiosempython)
 
-</div>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="110" height="30"/> 
   
-    
+  * [jogo no estilo Space Shooter](https://github.com/BeyondtimeX/Projeto-14)
+  * [jogo de memória estilo Genius](https://github.com/BeyondtimeX/Projeto-15)
+  * [Jogo de naves](https://github.com/BeyondtimeX/Projeto-16)
+  * [Jogo do dinossauro sem internet](https://github.com/BeyondtimeX/Projeto-18)
+  * [ChatbotFit no Telegram com JavaScript e NodeJS](https://github.com/BeyondtimeX/Projeto-17)
+   
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=BeyondTimeX&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeyondTimeX&langs_count=8&layout=compact)](https://github.com/BeyondTimeX/github-readme-stats)
     
   
