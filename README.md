@@ -1,10 +1,11 @@
 ![header](https://user-images.githubusercontent.com/88558377/145865964-94184697-f8aa-41c7-baef-a9573c12d7e2.gif)
 
 <div> 
+
+  #### Projetos:
   
-  ### Projetos:
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" width="110" height="30"/> 
   
-#### Python
 * [Descomplicando a criação de pacotes de processamento de imagens em Python](https://github.com/BeyondtimeX/Projeto-1)
 * [Desenvolvendo um dashboard administrativo com Flask](https://github.com/BeyondtimeX/Projeto-3)
 * [Criando modelos com Python e Machine Learning para prever a evolução do COVID-19 no Brasil](https://github.com/BeyondtimeX/Projeto-4)
