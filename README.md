@@ -16,6 +16,8 @@
 * [Refatorando uma API HTTP de forma segura desenvolvida em Python](https://github.com/BeyondtimeX/Projeto-10)
 <div>
   
+*  ##### [Desafios em Python](https://https://github.com/BeyondtimeX/BeyondtimeX-Desafiosempython)
+  
 <img height="190em" src="https://github-readme-stats.vercel.app/api?username=BeyondtimeX&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeyondtimeX&langs_count=8&layout=compact)](https://https://github.com/BeyondtimeX/github-readme-stats)
   
 </div>
