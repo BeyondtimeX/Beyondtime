@@ -18,8 +18,8 @@
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="110" height="30"/> 
   
-  * [jogo no estilo Space Shooter](https://github.com/BeyondtimeX/Projeto-14)
-  * [jogo de memória estilo Genius](https://github.com/BeyondtimeX/Projeto-15)
+  * [Jogo no estilo Space Shooter](https://github.com/BeyondtimeX/Projeto-14)
+  * [Jogo de memória estilo Genius](https://github.com/BeyondtimeX/Projeto-15)
   * [Jogo de naves](https://github.com/BeyondtimeX/Projeto-16)
   * [Jogo do dinossauro sem internet](https://github.com/BeyondtimeX/Projeto-18)
   * [ChatbotFit no Telegram com JavaScript e NodeJS](https://github.com/BeyondtimeX/Projeto-17)
