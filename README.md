@@ -18,8 +18,8 @@
 <div>
   
 *  ##### [Desafios em Python](https://https://github.com/BeyondtimeX/BeyondtimeX-Desafiosempython)
-  
-<img height="190em" src="https://github-readme-stats.vercel.app/api?username=BeyondtimeX&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeyondtimeX&langs_count=8&layout=compact)](https://https://github.com/BeyondtimeX/github-readme-stats)
+
+  [![Linguagens principais](https://github-readme-stats.vercel.app/api/top-langs/?username=BeyondtimeX&langs_count=8&layout=compact)](https://https://github.com/BeyondtimeX/github-readme-stats)
   
 </div>
  
