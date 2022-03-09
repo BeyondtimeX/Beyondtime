@@ -23,9 +23,7 @@
 * [Jogo do dinossauro sem internet](https://github.com/BeyondtimeX/Projeto-18)
 * [ChatbotFit no Telegram com JavaScript e NodeJS](https://github.com/BeyondtimeX/Projeto-17)
 
-
-   
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=BeyondTimeX&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true"/>  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeyondTimeX&langs_count=8&layout=compact)](https://github.com/BeyondTimeX/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeyondTimeX&langs_count=8&layout=compact)](https://github.com/BeyondTimeX/github-readme-stats)
     
   
    <h5 align="left">Conexões:</h5>
