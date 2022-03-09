@@ -14,7 +14,7 @@
 * [Implementando um sistema de gerenciamento de clientes com cadastro, listagem e exclusão](https://github.com/BeyondtimeX/Projeto-9)
 * [Refatorando uma API HTTP de forma segura desenvolvida em Python](https://github.com/BeyondtimeX/Projeto-10)
   
-*  ##### [Desafios em Python](https://https://github.com/BeyondtimeX/BeyondtimeX-Desafiosempython)
+*  ##### [Desafios em Python](https://github.com/BeyondtimeX/BeyondtimeX-Desafiosempython)
 
 
    
