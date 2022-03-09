@@ -16,13 +16,6 @@
   
 *  ##### [Desafios em Python](https://github.com/BeyondtimeX/BeyondtimeX-Desafiosempython)
 
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" width="110" height="30"/> 
-
-* [Jogo no estilo Space Shooter](https://github.com/BeyondtimeX/Projeto-14)
-* [Jogo de naves](https://github.com/BeyondtimeX/Projeto-16)
-* [Jogo do dinossauro sem internet](https://github.com/BeyondtimeX/Projeto-18)
-* [ChatbotFit no Telegram com JavaScript e NodeJS](https://github.com/BeyondtimeX/Projeto-17)
-
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeyondTimeX&langs_count=8&layout=compact)](https://github.com/BeyondTimeX/github-readme-stats)
     
   
