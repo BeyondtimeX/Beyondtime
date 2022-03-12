@@ -27,6 +27,10 @@ c
 * [Jogo do dinossauro sem internet](https://github.com/BeyondtimeX/Projeto-18)
 * [jogo no estilo Space Shooter](github.com/BeyondtimeX/Projeto-14)
 
+<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" width="110" height="30"/> 
+
+* [Jogo Pedra, Papel ou Tesoura](https://github.com/BeyondtimeX/Projeto-26)
+
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" width="110" height="25"/> 
  
 * [APP simples de cadastro de séries em .NET](https://github.com/BeyondtimeX/Projeto-22)
