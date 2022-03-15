@@ -1,4 +1,4 @@
-![header] (https://user-images.githubusercontent.com/88558377/158422306-6c61b8b0-51c7-4d06-8397-5108caea791a.gif)
+![header](https://user-images.githubusercontent.com/88558377/158422306-6c61b8b0-51c7-4d06-8397-5108caea791a.gif)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeyondTimeX&langs_count=8&layout=compact)](https://github.com/BeyondTimeX/github-readme-stats)
