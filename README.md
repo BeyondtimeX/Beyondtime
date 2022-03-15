@@ -1,4 +1,4 @@
-![header](https://user-images.githubusercontent.com/88558377/145865964-94184697-f8aa-41c7-baef-a9573c12d7e2.gif)
+![header](https://user-images.githubusercontent.com/88558377/158323292-bb74edf7-77a7-4a49-90fa-567d86d942e1.gif)
 
 ## Projetos
 
