@@ -1,6 +1,6 @@
 ![header](https://user-images.githubusercontent.com/88558377/158323292-bb74edf7-77a7-4a49-90fa-567d86d942e1.gif)
 
-  ![Estatísticas do GitHub do Bruno](https://github-readme-stats.vercel.app/api?username=BeyondtimeX&show_icons=true&theme=dark)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeyondTimeX&langs_count=8&layout=compact)](https://github.com/BeyondTimeX/github-readme-stats)
+![Estatísticas do GitHub do Bruno](https://github-readme-stats.vercel.app/api?username=BeyondtimeX&show_icons=true&theme=dark)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeyondTimeX&langs_count=8&layout=compact)](https://github.com/BeyondTimeX/github-readme-stats)
     
  <div align="center">
   
