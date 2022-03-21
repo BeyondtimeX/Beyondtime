@@ -35,7 +35,7 @@
 - [Descomplicando a criação de pacotes de processamento de imagens em Python](https://github.com/BeyondtimeX/Projeto-1)<br/>
 
 
-- [Soluções em Python](https://github.com/BeyondtimeX/BeyondtimeX-Desafiosempython)
+- [Soluções em Python](https://github.com/BeyondtimeX/solu-esempython)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeyondTimeX&langs_count=8&layout=compact)](https://github.com/BeyondTimeX/github-readme-stats)
     
