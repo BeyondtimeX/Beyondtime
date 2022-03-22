@@ -1,6 +1,8 @@
 ![header](https://user-images.githubusercontent.com/88558377/159158519-59bcb75b-ec6b-4f9e-ac29-d968010e2b98.gif)
 
-#### Projetos ⬇️
+<h1 align="center"> Oi 👋, eu sou o Bruno Almeida 👨‍💻</h1>
+
+##### Projetos ⬇️
 
 - [Landing page](https://github.com/BeyondtimeX/Projeto-29)<br/>
 - [Como prototipar uma landing page de um portfólio](https://github.com/BeyondtimeX/Projeto_33.git)<br/>
