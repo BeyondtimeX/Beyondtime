@@ -32,7 +32,6 @@
 - [Desenvolvendo um Port Scanner em Python](https://github.com/BeyondtimeX/Projeto-8)
 - [Criando um Ecossistema Hadoop Totalmente Gerenciado com Google Cloud Dataproc](https://github.com/BeyondtimeX/Projeto-5)
 - [Python e Machine Learning](https://github.com/BeyondtimeX/Projeto-4)
-- [Consumindo uma API do Twitter com Python](https://github.com/BeyondtimeX/Projeto-7)
 - [Desenvolvendo um dashboard administrativo com Flask](https://github.com/BeyondtimeX/Projeto-3)
 - [Descomplicando a criação de pacotes de processamento de imagens em Python](https://github.com/BeyondtimeX/Projeto-1)<br/>
 
