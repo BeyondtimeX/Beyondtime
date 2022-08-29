@@ -1,8 +1,6 @@
 ![header](https://user-images.githubusercontent.com/88558377/159158519-59bcb75b-ec6b-4f9e-ac29-d968010e2b98.gif)
 
 <h1 align="center"> Oi 👋, eu sou o Bruno Almeida 👨‍💻</h1>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BeyondTimeX&langs_count=8&layout=compact)](https://github.com/BeyondTimeX/github-readme-stats)
     
  <div align="center">
   
