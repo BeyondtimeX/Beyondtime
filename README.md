@@ -2,12 +2,10 @@
 
 <h1 align="center"> Oi 👋, eu sou o Bruno Almeida 👨‍💻</h1>
 
-![Visu](https://komarev.com/ghpvc/?username=BeyondtimeX-github-username&color=green)
-
  <div align="center">
   
   ![Snake animation](https://github.com/BeyondtimeX/BeyondtimeX/blob/output/github-contribution-grid-snake.svg)
-  
+ 
 </div>
 
    <h5 align="left">Conexões:</h5>
