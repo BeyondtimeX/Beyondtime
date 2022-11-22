@@ -1,4 +1,4 @@
-![header](https://user-images.githubusercontent.com/88558377/159158519-59bcb75b-ec6b-4f9e-ac29-d968010e2b98.gif)
+![header](https://user-images.githubusercontent.com/88558377/203437748-6b1008d0-0d40-43d6-b3d5-9e96fc6674ea.gif)
 
 <h1 align="center"> Oi 👋, eu sou o Bruno Almeida 👨‍💻</h1>
 
