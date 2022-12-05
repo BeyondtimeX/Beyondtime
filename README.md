@@ -1,7 +1,5 @@
+![Banner para LinkedIn para Centro de Crises sobre Incêndios Amarelo e Verde Molduras Dinâmicas (1)](https://user-images.githubusercontent.com/88558377/205551131-f2b2e3c2-08de-4609-a6ec-2fce2fcb9733.gif)
 
-   
-
-  
 
   
 
