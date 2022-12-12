@@ -4,7 +4,7 @@
 | :-: | :-: |
 
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BeyondtimeX&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BeyondtimeX&hide=Html&theme=nord_dark) |  ![Design sem nome](https://user-images.githubusercontent.com/88558377/205811339-54ef4114-60cf-4bb6-a3dd-418e1360af40.png)|
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BeyondtimeX&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BeyondtimeX&hide=Html&theme=nord_dark) ||
 | :-: | :-: | :-: |
 
 
