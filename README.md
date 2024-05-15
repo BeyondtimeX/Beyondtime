@@ -22,6 +22,9 @@ Pronto para enfrentar desafios ambiciosos e elevar a análise de dados a novos p
 
 **Projeto:** [Dashboard DRE AMBEV](https://www.google.com)
 
+**Projeto:** [Dashboard Gestão de Projetos](https://www.google.com)
+
+
 
 
 
