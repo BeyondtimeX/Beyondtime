@@ -32,5 +32,9 @@ Pronto para enfrentar desafios ambiciosos e elevar a análise de dados a novos p
 
 **Projeto:** [Dashboard Fluxo de Caixa e Simulador](https://www.google.com)
 
+**Projeto:** [Dashboard Compras](https://www.google.com)
+
+**Projeto:** [Dashboard Manutenção](https://www.google.com)
+
 
 
