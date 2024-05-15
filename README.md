@@ -24,8 +24,11 @@ Pronto para enfrentar desafios ambiciosos e elevar a análise de dados a novos p
 
 **Projeto:** [Dashboard Gestão de Projetos](https://www.google.com)
 
+**Projeto:** [Dashboard Controladoria](https://www.google.com)
 
+**Projeto:** [Dashboard SAC](https://www.google.com)
 
+**Projeto:** [Dashboard Produção](https://www.google.com)
 
 
 
