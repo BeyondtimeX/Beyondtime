@@ -12,20 +12,15 @@ Estou comprometido em aproveitar minha experiência para fornecer insights estra
 
 Pronto para enfrentar desafios ambiciosos e elevar a análise de dados a novos patamares.
 
-**Projeto:** 
-[Dashboard Financeiro](https://www.google.com)
+**Projeto:** [Dashboard Financeiro](https://www.google.com)
 
-**Projeto:**  
-[Dashboard logística](https://www.google.com)
+**Projeto:**  [Dashboard logística](https://www.google.com)
 
-**Projeto:** 
-[Dashboard Vendas](https://www.google.com)
+**Projeto:** [Dashboard Vendas](https://www.google.com)
 
-**Projeto:** 
-[Dashboard RH](https://www.google.com)
+**Projeto:** [Dashboard RH](https://www.google.com)
 
-**Projeto:** 
-[Dashboard DRE AMBEV](https://www.google.com)
+**Projeto:** [Dashboard DRE AMBEV](https://www.google.com)
 
 
 
