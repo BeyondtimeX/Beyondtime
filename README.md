@@ -10,11 +10,6 @@ Além das competências técnicas, minha comunicação clara e adaptável tem si
 
 Estou comprometido em aproveitar minha experiência para fornecer insights estratégicos que direcionem decisões críticas de negócios. Combinando minha visão estratégica com habilidades técnicas sólidas, sou um defensor apaixonado do uso inteligente de dados para impulsionar a inovação e o sucesso organizacional.
 
-Pronto para enfrentar desafios ambiciosos e elevar a análise de dados a novos patamares.
-
-<h3 align="left">Outras Ferramentas e Linguagens:</h3>
-<p align="left"> </p>
-
 **Projetos no Power BI**
 
 **Projeto:** [Dashboard Financeiro](https://app.powerbi.com/view?r=eyJrIjoiNmRlOTkyMmEtZmE4OC00OTU2LThhNWYtZjlhZWVlNjA1MTU2IiwidCI6ImZlNjUyNDI2LWE4MzMtNGRlZi1hMGIyLTIyNmJiZTk4MDAyZSJ9)   **Projeto:** [Dashboard Saúde](https://app.powerbi.com/view?r=eyJrIjoiZGZkNmE0N2YtYTY5Zi00MmI1LWEwOWMtNmEzZDEzNjJhN2E1IiwidCI6ImZlNjUyNDI2LWE4MzMtNGRlZi1hMGIyLTIyNmJiZTk4MDAyZSJ9)
