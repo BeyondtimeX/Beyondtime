@@ -1,4 +1,4 @@
-![Banner para LinkedIn para Centro de Crises sobre Incêndios Amarelo e Verde Molduras Dinâmicas (1)](https://user-images.githubusercontent.com/88558377/205551131-f2b2e3c2-08de-4609-a6ec-2fce2fcb9733.gif)
+![Banner para LinkedIn para Centro de Crises sobre Incêndios Amarelo e Verde Molduras Dinâmicas (1)](https://user-images.githubusercontent.com/88558377/205551131-f2b2e3c2-08de-4609-a6ec-2fce2fcb9733.gif) 
 
 Hoje atuo como Analista de Dados, sempre buscando transformar informações em insights acionáveis. Minha jornada acadêmica abrange um Bacharelado em **Ciência da Computação**, um Tecnólogo em **Análise e Desenvolvimento de Sistemas**, além de MBAs em **Administração Estratégica** e **Gerenciamento de Projetos**. Essa variedade de formações resulta em uma combinação única de habilidades técnicas e uma visão estratégica sólida.
 
