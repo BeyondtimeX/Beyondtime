@@ -12,7 +12,9 @@ Estou comprometido em aproveitar minha experiência para fornecer insights estra
 
 **Projetos no Power BI**
 
-**Projeto:** [Dashboard Financeiro](https://app.powerbi.com/view?r=eyJrIjoiNmRlOTkyMmEtZmE4OC00OTU2LThhNWYtZjlhZWVlNjA1MTU2IiwidCI6ImZlNjUyNDI2LWE4MzMtNGRlZi1hMGIyLTIyNmJiZTk4MDAyZSJ9)   **Projeto:** [Dashboard Saúde](https://app.powerbi.com/view?r=eyJrIjoiZGZkNmE0N2YtYTY5Zi00MmI1LWEwOWMtNmEzZDEzNjJhN2E1IiwidCI6ImZlNjUyNDI2LWE4MzMtNGRlZi1hMGIyLTIyNmJiZTk4MDAyZSJ9)
+**Projeto:** [Dashboard Financeiro](https://app.powerbi.com/view?r=eyJrIjoiNmRlOTkyMmEtZmE4OC00OTU2LThhNWYtZjlhZWVlNjA1MTU2IiwidCI6ImZlNjUyNDI2LWE4MzMtNGRlZi1hMGIyLTIyNmJiZTk4MDAyZSJ9) 
+**Projeto:** [Dashboard Saúde](https://app.powerbi.com/view?r=eyJrIjoiZGZkNmE0N2YtYTY5Zi00MmI1LWEwOWMtNmEzZDEzNjJhN2E1IiwidCI6ImZlNjUyNDI2LWE4MzMtNGRlZi1hMGIyLTIyNmJiZTk4MDAyZSJ9)
+**Projeto:** [Infográfico Comercial com Storytelling](https://app.powerbi.com/view?r=eyJrIjoiOGNlOGMwNzUtNjY3Zi00MDE0LThjNTEtNjRmOTExNTg5ZmY5IiwidCI6ImZlNjUyNDI2LWE4MzMtNGRlZi1hMGIyLTIyNmJiZTk4MDAyZSJ9)
    **Projeto:** [Dashboard RH](https://app.powerbi.com/view?r=eyJrIjoiODUzM2Q4M2ItNzNjOS00YTk4LWE3NTMtMzVkZDJjMTk5M2FhIiwidCI6ImZlNjUyNDI2LWE4MzMtNGRlZi1hMGIyLTIyNmJiZTk4MDAyZSJ9)
    **Projeto:** [Dashboard DRE AMBEV](https://app.powerbi.com/view?r=eyJrIjoiYmNiNjU2N2ItNjBiMi00Nzc4LWJiNjgtY2Y3YjMyYmVmZTI1IiwidCI6ImZlNjUyNDI2LWE4MzMtNGRlZi1hMGIyLTIyNmJiZTk4MDAyZSJ9)
    **Projeto:** [Dashboard Comercial](https://app.powerbi.com/view?r=eyJrIjoiOWZjMWVjYWEtNjllNC00YWNhLWI3ZjAtNDgyMzQzNDAwNjIyIiwidCI6ImZlNjUyNDI2LWE4MzMtNGRlZi1hMGIyLTIyNmJiZTk4MDAyZSJ9)
