@@ -27,6 +27,7 @@ Estou comprometido em aproveitar minha experiência para fornecer insights estra
        **Projeto:** [Dashboard Logística OTIF](https://app.powerbi.com/view?r=eyJrIjoiNGZjZGI4ODYtOGQyOS00Y2I5LTg2ZjItYTA0MWQyZGIxMzI4IiwidCI6ImZlNjUyNDI2LWE4MzMtNGRlZi1hMGIyLTIyNmJiZTk4MDAyZSJ9) 
 **Projeto:** [Dashboard Financeiro - White](https://app.powerbi.com/view?r=eyJrIjoiNTljY2Y1ZWMtZDdhNS00YmNmLTg2NTAtODRkODFjOGEwMDBhIiwidCI6ImZlNjUyNDI2LWE4MzMtNGRlZi1hMGIyLTIyNmJiZTk4MDAyZSJ9)
 **Projeto:** [Dashboard Logística](https://app.powerbi.com/view?r=eyJrIjoiMjM1NTI0ZDMtODE3Yy00ZTllLWEzZGMtOGJlZWY4YzYwN2VmIiwidCI6ImZlNjUyNDI2LWE4MzMtNGRlZi1hMGIyLTIyNmJiZTk4MDAyZSJ9)
+**Projeto:** [Dashboard Formula 1](https://app.powerbi.com/view?r=eyJrIjoiMTMzMjdiMDktYzQ5MS00ZGM4LTg1ZTUtMTg0MmU2YTBlMGUzIiwidCI6ImZlNjUyNDI2LWE4MzMtNGRlZi1hMGIyLTIyNmJiZTk4MDAyZSJ9)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BeyondtimeX&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="BeyondtimeX" /></p>
 
