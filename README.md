@@ -10,24 +10,6 @@ Além das competências técnicas, minha comunicação clara e adaptável tem si
 
 Estou comprometido em aproveitar minha experiência para fornecer insights estratégicos que direcionem decisões críticas de negócios. Combinando minha visão estratégica com habilidades técnicas sólidas, sou um defensor apaixonado do uso inteligente de dados para impulsionar a inovação e o sucesso organizacional.
 
-**Projetos no Power BI**
-
-**Projeto:** [Dashboard Financeiro](https://app.powerbi.com/view?r=eyJrIjoiNmRlOTkyMmEtZmE4OC00OTU2LThhNWYtZjlhZWVlNjA1MTU2IiwidCI6ImZlNjUyNDI2LWE4MzMtNGRlZi1hMGIyLTIyNmJiZTk4MDAyZSJ9) 
-**Projeto:** [Dashboard Saúde](https://app.powerbi.com/view?r=eyJrIjoiZGZkNmE0N2YtYTY5Zi00MmI1LWEwOWMtNmEzZDEzNjJhN2E1IiwidCI6ImZlNjUyNDI2LWE4MzMtNGRlZi1hMGIyLTIyNmJiZTk4MDAyZSJ9)
-**Projeto:** [Dashboard Vendas](https://app.powerbi.com/view?r=eyJrIjoiZjc1OTc2ODMtMDUzNi00OTg1LWI2ZmItY2IxMzM5MDhlNzVhIiwidCI6ImZlNjUyNDI2LWE4MzMtNGRlZi1hMGIyLTIyNmJiZTk4MDAyZSJ9)
-**Projeto:** [Infográfico Comercial com Storytelling](https://app.powerbi.com/view?r=eyJrIjoiOGNlOGMwNzUtNjY3Zi00MDE0LThjNTEtNjRmOTExNTg5ZmY5IiwidCI6ImZlNjUyNDI2LWE4MzMtNGRlZi1hMGIyLTIyNmJiZTk4MDAyZSJ9)
-   **Projeto:** [Dashboard RH](https://app.powerbi.com/view?r=eyJrIjoiODUzM2Q4M2ItNzNjOS00YTk4LWE3NTMtMzVkZDJjMTk5M2FhIiwidCI6ImZlNjUyNDI2LWE4MzMtNGRlZi1hMGIyLTIyNmJiZTk4MDAyZSJ9)
-   **Projeto:** [Dashboard DRE AMBEV](https://app.powerbi.com/view?r=eyJrIjoiYmNiNjU2N2ItNjBiMi00Nzc4LWJiNjgtY2Y3YjMyYmVmZTI1IiwidCI6ImZlNjUyNDI2LWE4MzMtNGRlZi1hMGIyLTIyNmJiZTk4MDAyZSJ9)
-   **Projeto:** [Dashboard Comercial](https://app.powerbi.com/view?r=eyJrIjoiOWZjMWVjYWEtNjllNC00YWNhLWI3ZjAtNDgyMzQzNDAwNjIyIiwidCI6ImZlNjUyNDI2LWE4MzMtNGRlZi1hMGIyLTIyNmJiZTk4MDAyZSJ9)
-   **Projeto:** [Dashboard SAC](https://app.powerbi.com/view?r=eyJrIjoiODU1MzRiYjQtZDE1Mi00NDI1LTg4M2EtNDUzYjUzYzY2ZTg2IiwidCI6ImZlNjUyNDI2LWE4MzMtNGRlZi1hMGIyLTIyNmJiZTk4MDAyZSJ9)
-   **Projeto:** [Dashboard Produção OEE](https://app.powerbi.com/view?r=eyJrIjoiNTkzMjdjM2EtM2NhOC00MzYwLWJkYTItOGYyNjJjOWE2OTE4IiwidCI6ImZlNjUyNDI2LWE4MzMtNGRlZi1hMGIyLTIyNmJiZTk4MDAyZSJ9)
-   **Projeto:** [Dashboard Fluxo de Caixa e Simulador](https://app.powerbi.com/view?r=eyJrIjoiYTdlNDRlNzYtMDUxMi00NmI4LWJlNzMtNjM1YTljZGJjZjYzIiwidCI6ImZlNjUyNDI2LWE4MzMtNGRlZi1hMGIyLTIyNmJiZTk4MDAyZSJ9)
-      **Projeto:** [Dashboard Logística](https://app.powerbi.com/view?r=eyJrIjoiYjZlOGNkNGEtMTgwNC00MjFhLWJlZmYtZjQxOTI2ZjUwODAwIiwidCI6ImZlNjUyNDI2LWE4MzMtNGRlZi1hMGIyLTIyNmJiZTk4MDAyZSJ9)
-       **Projeto:** [Dashboard Financeiro com Ánalise de Títulos Pagos e DRE](https://app.powerbi.com/view?r=eyJrIjoiZTg3MjJhMzMtMzVkNi00M2E4LWFmYzItMDAxMWM5OWFlODEzIiwidCI6ImZlNjUyNDI2LWE4MzMtNGRlZi1hMGIyLTIyNmJiZTk4MDAyZSJ9)
-       **Projeto:** [Dashboard Logística OTIF](https://app.powerbi.com/view?r=eyJrIjoiNGZjZGI4ODYtOGQyOS00Y2I5LTg2ZjItYTA0MWQyZGIxMzI4IiwidCI6ImZlNjUyNDI2LWE4MzMtNGRlZi1hMGIyLTIyNmJiZTk4MDAyZSJ9) 
-**Projeto:** [Dashboard Financeiro - White](https://app.powerbi.com/view?r=eyJrIjoiNTljY2Y1ZWMtZDdhNS00YmNmLTg2NTAtODRkODFjOGEwMDBhIiwidCI6ImZlNjUyNDI2LWE4MzMtNGRlZi1hMGIyLTIyNmJiZTk4MDAyZSJ9)
-**Projeto:** [Dashboard Logística](https://app.powerbi.com/view?r=eyJrIjoiMjM1NTI0ZDMtODE3Yy00ZTllLWEzZGMtOGJlZWY4YzYwN2VmIiwidCI6ImZlNjUyNDI2LWE4MzMtNGRlZi1hMGIyLTIyNmJiZTk4MDAyZSJ9)
-**Projeto:** [Dashboard Formula 1](https://app.powerbi.com/view?r=eyJrIjoiMTMzMjdiMDktYzQ5MS00ZGM4LTg1ZTUtMTg0MmU2YTBlMGUzIiwidCI6ImZlNjUyNDI2LWE4MzMtNGRlZi1hMGIyLTIyNmJiZTk4MDAyZSJ9)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BeyondtimeX&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="BeyondtimeX" /></p>
 
